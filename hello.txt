@@ -1,3 +1,7 @@
 hello world! 33333
 hello world! 22222
+<<<<<<< HEAD
 hello git! master test
+=======
+hot-fix test!
+>>>>>>> hot-fix
